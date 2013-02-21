@@ -24,7 +24,7 @@
 	url = git://github.com/mozart/mozart2-tool-browser.git
 [submodule "vm"]
 	path = vm
-	url = git@github.com:anfelbar/mozart2-vm.git
+	url = git://github.com/anfelbar/mozart2-vm.git
 [submodule "lib/main"]
 	path = lib/main
 	url = git://github.com/anfelbar/mozart2-library.git
