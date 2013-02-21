@@ -25,3 +25,6 @@
 [submodule "vm"]
 	path = vm
 	url = git@github.com:anfelbar/mozart2-vm.git
+[submodule "lib/main"]
+	path = lib/main
+	url = git://github.com/anfelbar/mozart2-library.git
