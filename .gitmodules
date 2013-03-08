@@ -25,3 +25,6 @@
 [submodule "lib/main"]
 	path = lib/main
 	url = git://github.com/anfelbar/mozart2-library.git
+[submodule "boosthost"]
+	path = boosthost
+	url = git@github.com:anfelbar/mozart2-boosthost.git
